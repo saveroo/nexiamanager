@@ -1,0 +1,12 @@
+<updates>
+    <script>
+        <name>freedomPoet.ahk</name>
+        <version>4.6</version>
+        <url>https://raw.githubusercontent.com/saveroo/nexiamanager/main/freedomPoet4.5.ahk</url>
+    </script>
+    <script>
+        <name>autoFollow.ahk</name>
+        <version>3.82</version>
+        <url>https://raw.githubusercontent.com/saveroo/nexiamanager/main/autoFollow3.81.ahk</url>
+    </script>
+</updates>
